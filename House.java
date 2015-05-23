@@ -3,5 +3,8 @@ public class House{
 		System.out.println("Hello") ;
 		System.out.println("Welcome") ;	
 		System.out.println("Hello") ;
+		System.out.println("Hello") ;
+		System.out.println("Hello") ;
+		System.out.println("Hello") ;
 	}
 }
