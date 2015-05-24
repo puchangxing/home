@@ -1,0 +1,30 @@
+From fa8979527ab8b1baa0f4af10c061244846f97f1b Mon Sep 17 00:00:00 2001
+From: mldn <mldnqa@163.com>
+Date: Sat, 23 May 2015 23:52:22 +0800
+Subject: [PATCH 2/2] =?UTF-8?q?=E4=BF=AE=E6=94=B9=E4=BA=86Hello.java?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ Hello.java | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/Hello.java b/Hello.java
+index 3e2a7a8..e368669 100644
+--- a/Hello.java
++++ b/Hello.java
+@@ -3,5 +3,9 @@ public class Hello{
+ 		System.out.println("Hello") ;
+ 		System.out.println("Welcome") ;	
+ 		System.out.println("Hello") ;
++		System.out.println("Hello") ;
++		System.out.println("Hello") ;
++		System.out.println("Hello") ;
++		System.out.println("Hello") ;
+ 	}
+ }
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+
